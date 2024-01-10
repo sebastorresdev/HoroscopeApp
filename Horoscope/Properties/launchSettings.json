@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Horoscope (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Horoscope (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
